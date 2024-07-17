@@ -31,6 +31,6 @@
    <br />
 </p>
 <div>
-   <img align="left" width=45% src='https://github-readme-stats.vercel.app/api?username=Kweeka1&show_icons=true&bg_color=transparent' alt="Kweeka1"/>
-   <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kweeka1&" alt="Kweeka1" />
+   <img align="left" width=45% src='https://github-readme-stats.vercel.app/api?username=m-talbi&show_icons=true&bg_color=transparent' alt="m-talbi"/>
+   <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-talbi&" alt="m-talbi" />
 </div>
